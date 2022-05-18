@@ -1,0 +1,154 @@
+{
+  "formElements": [
+    {
+      "name": "phone",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "avatar",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "email",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "firstName",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "lastName",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "address",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "city",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "state",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "country",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "postalCode",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "createdAt",
+      "dataType": "date",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "updatedAt",
+      "dataType": "date",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "instagramId",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "age",
+      "dataType": "integer",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "gender",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "address2",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "address3",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "socialMediaHandle",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "dateOfBirth",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "facebookHandle",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "twitterHandle",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "tiktokHandle",
+      "dataType": "string",
+      "status": "active",
+      "type": "mainValues"
+    },
+    {
+      "name": "height",
+      "dataType": "string",
+      "status": "active",
+      "type": "optionalValues"
+    },
+    {
+      "name": "weight",
+      "dataType": "string",
+      "status": "active",
+      "type": "optionalValues"
+    },
+    {
+      "name": "occupation",
+      "dataType": "string",
+      "status": "active",
+      "type": "optionalValues"
+    }
+  ]
+}

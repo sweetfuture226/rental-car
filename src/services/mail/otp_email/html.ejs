@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Your one time otp</title>
+</head>
+
+<body>
+	<div style="font-family: Helvetica,Arial,sans-serif;min-width:1000px;overflow:auto;line-height:2">
+		<div style="margin:50px auto;width:70%;padding:20px 0">
+			<div style="border-bottom:1px solid #eee">
+				<a href="" style="font-size:1.4em;color: #ff0000;text-decoration:none;font-weight:600">
+					<img src="https://quikinfluence.com/_next/static/media/icon.77983023.png" style="width:60px" />
+				</a>
+			</div>
+			<p style="font-size:1.1em">Hi <%= firstName %>,</p>
+			<p>Use the following OTP to confirm your account. OTP expires <%= expireyFormat %>
+			</p>
+			<h2
+				style="background: #ff0000;margin: 0;width: fit-content;padding: 0 10px;color: #fff;border-radius: 4px;">
+				<%= token %>
+			</h2>
+			<p style="font-size:0.9em;">Regards,<br />Quik Influence</p>
+			<hr style="border:none;border-top:1px solid #eee" />
+			<!-- <div style="float:right;padding:8px 0;color:#aaa;font-size:0.8em;line-height:1;font-weight:300">
+				<p>Hello Delivery</p>
+				<p>3 Admiralty Way</p>
+				<p>Lagos</p>
+			</div> -->
+		</div>
+	</div>
+</body>
+
+</html>

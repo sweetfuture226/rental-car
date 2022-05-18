@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",                                   /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "experimentalDecorators": true,                   /* Enable experimental support for TC39 stage 2 draft decorators. */
+    "sourceMap": true,                                /* Create source map files for emitted JavaScript files. */
+    "outDir": "./built",                                   /* Specify an output folder for all emitted files. */
+    "skipLibCheck": true,                                 /* Skip type checking all .d.ts files. */
+    "esModuleInterop": true,
+    "emitDecoratorMetadata": true,
+    "strictPropertyInitialization": false,
+    "moduleResolution": "node",
+    "rootDir": "./src",
+    "allowJs": true,
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}

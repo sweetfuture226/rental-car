@@ -1,0 +1,15 @@
+
+node_modules
+*.env
+.env.local
+.env.prod
+coverage
+dist
+built
+localdb
+ngrok
+access.log
+package-lock.json
+buildspec.yml
+k8.yml
+*.DS_Store
